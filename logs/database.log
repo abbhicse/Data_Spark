@@ -1,0 +1,24 @@
+2025-07-14 15:19:37,369 [INFO] package: mysql.connector.plugins
+2025-07-14 15:19:37,369 [INFO] plugin_name: caching_sha2_password
+2025-07-14 15:19:37,369 [INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-14 15:19:37,369 [INFO] Connected to MySQL.
+2025-07-14 15:24:10,683 [INFO] Inserted 62854 rows into `Global_Electronics_Master`.
+2025-07-14 15:46:01,771 [INFO] package: mysql.connector.plugins
+2025-07-14 15:46:01,772 [INFO] plugin_name: caching_sha2_password
+2025-07-14 15:46:01,772 [INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-14 15:46:01,774 [INFO] Connected to MySQL.
+2025-07-14 15:47:24,284 [INFO] Inserted 62854 rows into `Global_Electronics_Master`.
+2025-07-21 15:03:04,669 [INFO] Connected to MySQL.
+2025-07-21 15:04:32,011 [INFO] Inserted 62854 rows into `Global_Electronics_Master`.
+2026-01-19 15:21:53,449 [INFO] package: mysql.connector.plugins
+2026-01-19 15:21:53,449 [INFO] plugin_name: caching_sha2_password
+2026-01-19 15:21:53,449 [INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-19 15:21:53,452 [INFO] Connected to MySQL.
+2026-01-19 15:23:35,787 [INFO] Inserted 62854 rows into `Global_Electronics_Master`.
+2026-01-19 15:34:47,930 [INFO] package: mysql.connector.plugins
+2026-01-19 15:34:47,931 [INFO] plugin_name: caching_sha2_password
+2026-01-19 15:34:47,931 [INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-19 15:34:47,932 [INFO] Connected to MySQL successfully.
+2026-01-19 15:34:47,935 [INFO] Database 'global_electronics' created or exists.
+2026-01-19 15:34:48,852 [INFO] Connected to MySQL successfully.
+2026-01-19 15:34:48,932 [INFO] Table created successfully.
