@@ -88,14 +88,14 @@ All raw datasets are in the `/dataset` folder:
 
 ### How to use
 
-1. Open `DataSpark.pbix` in **Power BI Desktop**
+1. Open `DataSpark.pbix` in *Power BI Desktop*
 2. Load data using one of these methods:
 
    * **Recommended:** Import `output/Global_Electronics_Master.csv`
-   * **Optional:** Connect to MySQL and use the created SQL Views
+   * Connect to MySQL and use the created SQL Views
 3. Refresh and explore the report pages
 
-> Note: A `.pbix` file cannot be “deployed” directly in Streamlit Cloud. You either publish it to Power BI Service and embed it, or rebuild visuals in Streamlit.
+You have to publish it to Power BI Desktop app Service and embed it.
 
 ---
 
@@ -117,13 +117,15 @@ This generates:
 
 * `output/Global_Electronics_Master.csv`
 
-### 3) (Optional) Run MySQL + Views section
+### 3) Run MySQL + Views section
 
 Inside the notebook/script, update:
 
 * `host`, `user`, `password`, `database_name`
 
 Then execute the database + view creation cells.
+
+### 4) Open `DataSpark.pbix` in **Power BI Desktop**
 
 ---
 
